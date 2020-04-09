@@ -4,7 +4,7 @@ A mini e-commerce application built with Rails 4.2 for purposes of teaching Rail
 
 ### Screenshots
 !['myCart'](https://github.com/cnguyen50/jungle/blob/master/docs/myCart.png)
-!['products'](https://github.com/cnguyen50/jungle/blob/master/docs/products.png)
+!['products'](https://github.com/cnguyen50/jungle/blob/master/docs/allproducts.png)
 
 
 ## Setup
